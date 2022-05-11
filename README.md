@@ -7,9 +7,8 @@ This is my official config of my CS:GO.
 * **Add 1440 x 1080** resolution via NVIDA Control Panel.
 * **Enable NVIDIA Experimental**.
 * Install **["Font Manager"](https://github.com/WilliamRagstad/Font-Manager)** and **use "Berlin Sans FB"** as font with **size 6**.
-* Set CS:GO process priority to high: Task Manager > Details > csgo.exe > "Right Click" > Set priority > High
 * My mouse settings are **800 DPI** and **polling rate 1000hz**
-* **Launch options:** +exec autoexec.cfg -language colormod -tickrate 128 -freq 144 -novid -console +fps_max 0 -allow_third_party_software
+* **Launch options:** +exec autoexec.cfg -language colormod -freq 144 -nojoy -novid -allow_third_party_software
 
 ## NVIDIA CONTROL PANEL
 #### Adjust image settings with preview 
