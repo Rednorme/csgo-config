@@ -4,7 +4,6 @@ This is my official config of my CS:GO.
 ## IMPORTANT OPTIONS AND NOTES!
 * Config is **made for 27" monitors**. If you want to use it **for 24", change Resolution to 1280 x 960**.
 * **Windows mouse speed** has to be changed **to 6** and **disable mouse acceleration**.
-* **Add 1440 x 1080** resolution via NVIDA Control Panel.
 * **Enable NVIDIA Experimental**.
 * Install **["Font Manager"](https://github.com/WilliamRagstad/Font-Manager)** and **use "Berlin Sans FB"** as font with **size 6**.
 * My mouse settings are **800 DPI** and **polling rate 1000hz**
@@ -17,7 +16,7 @@ This is my official config of my CS:GO.
 #### Manage 3D settings
 * Program Settings:
   * Ambient Occlusion: Off
-  * Anisotropic filtering: 16x
+  * Anisotropic filtering: Off
   * Antialiasing - Gamma correction: Off
   * Antialiasing - Mode: Application-controlled
   * Antialiasing - Transparency: Off
@@ -48,7 +47,6 @@ This is my official config of my CS:GO.
 ## MONITOR SETTINGS
 * Picture Mode: Standard
 * Black eQualizer: 20
-* Brightness: 80
+* Brightness: 100
 * Contrast: 60
-* Sharpness: 7
 * Gamma: 1
